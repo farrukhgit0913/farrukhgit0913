@@ -145,10 +145,10 @@ A mobile application built using modern hybrid/mobile technologies.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=farrukhgit0913&show_icons=true&hide_border=true&count_private=true" alt="Farrukh's GitHub Stats" />
-](https://github-readme-stats.vercel.app/api?username=farrukhgit0913)</p>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farrukhgit0913&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=farrukhgit0913&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
