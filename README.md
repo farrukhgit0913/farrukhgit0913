@@ -42,7 +42,7 @@ I enjoy turning complex requirements into clean, maintainable, and production-re
 * **Architecture:** Microservices · Domain-Driven Design · Test-Driven Development
 * **ORM & Data:** Prisma · Entity Framework
 * **State Management:** Redux · NgRx · RxJS · Zustand · Pinia
---
+
 
 ## 🚀 Notable Projects
 
