@@ -12,70 +12,37 @@ I enjoy turning complex requirements into clean, maintainable, and production-re
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
-* Angular
-* React.js
-* Vue.js
-* Next.js
-* Ionic / Capacitor
-* TypeScript
-* JavaScript
-* Tailwind CSS
-* Material UI
-* Bootstrap
+* **Frameworks:** Angular · React.js · Vue.js · Next.js
+* **Mobile:** Ionic · Capacitor
+* **Languages:** TypeScript · JavaScript
+* **UI & Styling:** Tailwind CSS · Material UI · Bootstrap
 
-### Backend
+### ⚙️ Backend
 
-* Node.js
-* NestJS
-* Express.js
-* ASP.NET Core
-* .NET Core Web API
-* GraphQL
-* REST APIs
-* Socket.io
-* WebRTC
+* **Runtime & Frameworks:** Node.js · NestJS · Express.js
+* **Microsoft:** ASP.NET Core · .NET Core Web API
+* **APIs:** REST APIs · GraphQL
+* **Real-Time & Communication:** Socket.io · WebRTC
 
-### Databases
+### 🗄️ Databases
 
-* PostgreSQL
-* MySQL
-* SQL Server
-* MongoDB
-* MariaDB
-* Firebase
+* **SQL:** PostgreSQL · MySQL · SQL Server · MariaDB
+* **NoSQL & Cloud:** MongoDB · Firebase
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 
-* AWS
+* **Cloud:** AWS · Microsoft Azure
+* **AWS Services:** S3 · Lambda · Cognito · CloudFront · SQS · EventBridge
+* **Deployment & Infrastructure:** Docker · CI/CD · Vercel · AWS Amplify
 
-  * S3
-  * Lambda
-  * Cognito
-  * CloudFront
-  * SQS
-  * EventBridge
-* Microsoft Azure
-* Docker
-* CI/CD
-* Vercel
-* AWS Amplify
+### 🏗️ Architecture & Development
 
-### Architecture & Development
-
-* Microservices
-* Domain-Driven Design
-* Test-Driven Development
-* Prisma
-* Entity Framework
-* Redux
-* NgRx
-* RxJS
-* Zustand
-* Pinia
-
----
+* **Architecture:** Microservices · Domain-Driven Design · Test-Driven Development
+* **ORM & Data:** Prisma · Entity Framework
+* **State Management:** Redux · NgRx · RxJS · Zustand · Pinia
+--
 
 ## 🚀 Notable Projects
 
