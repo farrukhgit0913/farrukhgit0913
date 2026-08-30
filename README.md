@@ -1,6 +1,6 @@
-**👋 Hi, I'm Farrukh Shahzad
-🚀 Full Stack Developer | Angular • React • Node.js • Next.js • .NET • AWS
-**
+**👋 Hi, I'm Farrukh Shahzad**
+**🚀 Full Stack Developer | Angular • React • Node.js • Next.js • .NET • AWS**
+
 I’m a highly skilled Full Stack Developer and Team Lead/Project Manager with over 7 years of experience building responsive web and mobile applications, CRM systems, SaaS platforms, e-commerce solutions, AI integrations, and robust APIs.
 
 I specialise in delivering high-quality, scalable solutions and thrive in collaborative, fast-paced corporate environments. I enjoy turning complex requirements into clean, maintainable, and production-ready software.
