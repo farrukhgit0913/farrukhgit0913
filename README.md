@@ -146,7 +146,8 @@ A mobile application built using modern hybrid/mobile technologies.
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=farrukhgit0913&show_icons=true"
-    alt="Farrukh's GitHub Stats" />
+    alt="Farrukh's GitHub Stats"
+  />
 </p>
 
 <p align="center">
