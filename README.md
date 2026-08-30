@@ -129,18 +129,7 @@ A mobile application built using modern hybrid/mobile technologies.
 
 * 🍎 [App Store](https://apps.apple.com/us/app/motomate123/)
 * 🤖 [Google Play](https://play.google.com/store/apps/details?id=com.viewinfocus.motomatehd)
-
----
-
-## 💻 Open Source / Personal Projects
-
-* 🤖 **Chatbot App** — Vue 3 + Tailwind CSS
-  https://github.com/farrukh0913/chatbot
-
-* 🛒 **E-commerce App** — Vue 3 + Tailwind CSS + Firebase
-  https://github.com/farrukh0913/Ecommerce
-
----
+  
 
 ## 🎓 Education
 
@@ -155,11 +144,11 @@ A mobile application built using modern hybrid/mobile technologies.
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farrukh0913&show_icons=true&hide_border=true&count_private=true" alt="Farrukh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farrukhgit0913&show_icons=true&hide_border=true&count_private=true" alt="Farrukh's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farrukh0913&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farrukhgit0913&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
