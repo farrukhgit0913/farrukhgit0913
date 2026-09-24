@@ -2,13 +2,10 @@
 
 ## 🚀 Full Stack Developer | AI Automation & AI Agents | Angular • React • Node.js • Next.js • .NET • AWS
 
-I’m a highly skilled Full Stack Developer and Team Lead/Project Manager with over 7 years of experience building responsive web and mobile applications, CRM systems, SaaS platforms, e-commerce solutions, AI-powered applications, automation workflows, and robust APIs.
+I’m a highly skilled Full Stack Developer and Team Lead/Project Manager with 7+ years of experience building web/mobile applications, CRM systems, SaaS platforms, e-commerce solutions, AI-powered applications, automation workflows, and robust APIs.
 
-I specialize in building **AI-powered business automation systems** that connect applications, CRMs, APIs, messaging platforms, and AI agents. I work with **n8n, AI agents, OpenClaw, WhatsApp automation, LLM integrations, REST APIs, webhooks, and custom full-stack applications**.
+I specialize in AI-powered business automation including n8n, AI agents, OpenClaw, WhatsApp automation, LLM integrations, CRM automation, REST APIs, and webhooks, combined with strong hands-on experience in Angular, React, Node.js, NestJS, Next.js, .NET, Python, MongoDB, PostgreSQL, and AWS to build complete, scalable and production-ready solutions.
 
-I also bring strong hands-on experience across **Angular, React, Node.js, NestJS, Next.js, .NET, Python, MongoDB, PostgreSQL, and AWS**, allowing me to build complete solutions from frontend and backend to AI automation and cloud infrastructure.
-
-I enjoy turning complex requirements into clean, maintainable, scalable, and production-ready software.
 
 **Availability: 40 Hours/week • Immediately Available**
 
