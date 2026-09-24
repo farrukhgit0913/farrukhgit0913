@@ -4,7 +4,7 @@
 
 I’m a highly skilled **Full Stack Developer** and **Team Lead/Project Manager** with **7+ years** of experience building **web/mobile applications**, **CRM systems**, **SaaS platforms**, **e-commerce solutions**, **AI-powered applications**, **automation workflows**, and **robust APIs**.
 
-I specialize in **AI-powered business automation** including **n8n**, **AI agents**, **OpenClaw**, **WhatsApp automation**, **LLM integrations**, **CRM automation**, **REST APIs**, and **webhooks**, combined with strong hands-on experience in **Angular**, **React**, **NodeJS**, **NestJS**, **NextJS**, **.NET**, **Python**, **MongoDB**, **PostgreSQL**, and **AWS** to build **complete**, **scalable** and **production-ready solutions**.
+I specialize in **AI-powered business automation** including **n8n**, **AI agents**, **OpenClaw**, **WhatsApp automation**, **LLM integrations**, **CRM automation**, **REST APIs**, and **webhooks**, combined with strong hands-on experience in **Angular**, **React**, **NodeJS**, **NestJS**, **NextJS**, **.NET**, **Python**, **MongoDB**, **PostgreSQL**, and **AWS** to build complete, scalable and production-ready solutions.
 
 
 **Availability: 40 Hours/week • Immediately Available**
