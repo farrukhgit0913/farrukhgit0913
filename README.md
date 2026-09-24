@@ -1,13 +1,58 @@
-# 👋 Hi, I'm Farrukh Shahzad**
-## 🚀 Full Stack Developer | Angular • React • Node.js • Next.js • .NET • AWS
+# 👋 Hi, I'm Farrukh Shahzad
 
-I’m a highly skilled Full Stack Developer and Team Lead/Project Manager with over 7 years of experience building responsive web and mobile applications, CRM systems, SaaS platforms, e-commerce solutions, AI integrations, and robust APIs.
+## 🚀 Full Stack Developer | AI Automation & AI Agents | Angular • React • Node.js • Next.js • .NET • AWS
 
-I specialise in delivering high-quality, scalable solutions and thrive in collaborative, fast-paced corporate environments. I enjoy turning complex requirements into clean, maintainable, and production-ready software.
+I’m a highly skilled Full Stack Developer and Team Lead/Project Manager with over 7 years of experience building responsive web and mobile applications, CRM systems, SaaS platforms, e-commerce solutions, AI-powered applications, automation workflows, and robust APIs.
+
+I specialize in building **AI-powered business automation systems** that connect applications, CRMs, APIs, messaging platforms, and AI agents. I work with **n8n, AI agents, OpenClaw, WhatsApp automation, LLM integrations, REST APIs, webhooks, and custom full-stack applications**.
+
+I also bring strong hands-on experience across **Angular, React, Node.js, NestJS, Next.js, .NET, Python, MongoDB, PostgreSQL, and AWS**, allowing me to build complete solutions from frontend and backend to AI automation and cloud infrastructure.
+
+I enjoy turning complex requirements into clean, maintainable, scalable, and production-ready software.
 
 **Availability: 40 Hours/week • Immediately Available**
 
-I enjoy turning complex requirements into clean, maintainable, and production-ready software.
+---
+
+## 🤖 AI Automation & AI Agents
+
+* **AI Automation:** n8n · AI Workflows · Workflow Automation · Business Process Automation
+* **AI Agents:** OpenClaw · AI Agent Workflows · Agentic Automation · Tool/API Integration
+* **LLMs:** OpenAI · Claude · LLM APIs · Prompt Engineering
+* **Messaging:** WhatsApp · WhatsApp AI Agents · Automated Customer Conversations
+* **CRM Automation:** Lead Qualification · Lead Management · AI Follow-ups · Customer Data Automation
+* **Integrations:** REST APIs · Webhooks · OAuth · Third-Party Integrations
+* **AI Applications:** AI Chat · AI Sales Assistants · AI CRM Agents · AI-powered Business Workflows
+
+### 🔥 AI Automation Projects
+
+**AI Sales & Lead Automation**
+
+Built an AI-powered sales automation workflow connecting **n8n, CRM, AI agents, lead qualification, notifications, and automated follow-ups**.
+
+Example workflow:
+
+`Lead → n8n → AI Qualification → CRM → Sales Notification → AI Follow-up`
+
+**WhatsApp AI Agent**
+
+Built an AI-powered WhatsApp workflow that connects customer conversations with an AI agent and CRM data.
+
+Example workflow:
+
+`WhatsApp → AI Agent → CRM → Customer Context → Business Action`
+
+**AI CRM Agent**
+
+Built an AI agent interface for interacting with CRM/customer data using natural language.
+
+Example queries:
+
+* "How many qualified leads do we have?"
+* "Show me our highest-budget leads."
+* "What is the latest contact with this customer?"
+* "Follow up with this lead."
+
 ---
 
 ## 🛠️ Tech Stack
@@ -21,10 +66,20 @@ I enjoy turning complex requirements into clean, maintainable, and production-re
 
 ### ⚙️ Backend
 
-* **Runtime & Frameworks:** Node.js · NestJS · Express.js
+* **Runtime & Frameworks:** Node.js · NestJS · Express.js · Python
 * **Microsoft:** ASP.NET Core · .NET Core Web API
 * **APIs:** REST APIs · GraphQL
 * **Real-Time & Communication:** Socket.io · WebRTC
+
+### 🤖 AI & Automation
+
+* **Automation:** n8n
+* **AI Agents:** OpenClaw · AI Agent Workflows
+* **LLMs:** OpenAI · Claude · LLM APIs
+* **AI Applications:** AI Chatbots · AI Sales Agents · AI CRM Agents
+* **Messaging Automation:** WhatsApp · Webhooks
+* **Integrations:** REST APIs · Third-Party APIs · OAuth
+* **Automation Patterns:** Lead Qualification · CRM Automation · AI Follow-ups · Business Process Automation
 
 ### 🗄️ Databases
 
@@ -43,8 +98,18 @@ I enjoy turning complex requirements into clean, maintainable, and production-re
 * **ORM & Data:** Prisma · Entity Framework
 * **State Management:** Redux · NgRx · RxJS · Zustand · Pinia
 
+---
 
 ## 🚀 Notable Projects
+
+### 🔹 AI / Automation
+
+| Project                        | Technologies                                       |
+| ------------------------------ | -------------------------------------------------- |
+| **AI Sales & Lead Automation** | n8n · AI Agents · CRM · OpenAI · Node.js · MongoDB |
+| **WhatsApp AI Agent**          | OpenClaw · WhatsApp · AI Agents · CRM · Node.js    |
+| **AI CRM Agent**               | OpenClaw · AI Agents · MongoDB · Express · Angular |
+| **AI Workflow Automation**     | n8n · APIs · Webhooks · LLMs · CRM                 |
 
 ### 🔹 Angular / Node.js / NestJS / React / Vue
 
@@ -96,8 +161,9 @@ I enjoy turning complex requirements into clean, maintainable, and production-re
 A mobile application built using modern hybrid/mobile technologies.
 
 * 🍎 [App Store](https://apps.apple.com/us/app/motomate123/)
-* 🤖 [Google Play](https://play.google.com/store/apps/details?id=com.viewinfocus.motomatehd)
-  
+* 🤖 [Google Play](https://play.google.com/store/apps/details?id=com.viewinfocus.motomat eh d)
+
+---
 
 ## 🎓 Education
 
@@ -126,11 +192,13 @@ A mobile application built using modern hybrid/mobile technologies.
 
 ---
 
-### 💡 Open to Opportunities
+## 💡 Open to Remote Opportunities
 
 I'm interested in **long-term remote opportunities** involving:
 
-**Angular • React • Vue • Node.js • NestJS • Next.js • .NET • AWS • TypeScript**
+**AI Automation • AI Agents • n8n • OpenClaw • WhatsApp Automation • CRM Automation • Angular • React • Node.js • NestJS • Next.js • .NET • AWS • TypeScript**
+
+I’m particularly interested in building **AI-powered business automation systems, CRM agents, sales automation, customer-support automation, workflow integrations, and full-stack SaaS applications.**
 
 If you're working on something interesting, feel free to reach out!
 
