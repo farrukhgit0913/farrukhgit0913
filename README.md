@@ -127,6 +127,7 @@ Example queries:
 | **Total Party Planner** | React, .NET Core, SQL Server                                         |
 | **Lexfund**             | React, Next.js, AWS                                                  |
 | **Get Nugget**          | Angular                                                              |
+| **Asure CRM**           | Vue3, Pinia, NodeJS, AWS                                                              |
 
 ### 🔹 C# / ASP.NET
 
