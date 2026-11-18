@@ -106,7 +106,7 @@ Example queries:
 | **AI Sales & Lead Automation** | n8n · AI Agents · CRM · OpenAI · Node.js · MongoDB |
 | **WhatsApp AI Agent**          | OpenClaw · WhatsApp · AI Agents · CRM · Node.js    |
 | **AI CRM Agent**               | OpenClaw · AI Agents · MongoDB · Express · Angular |
-| **AI Workflow Automation**     | n8n · APIs · Webhooks · LLMs · CRM                 |
+| **LLM with RAG**               | LLMs · RAG · MongoDB · Express                     |
 
 ### 🔹 Angular / Node.js / NestJS / React / Vue
 
