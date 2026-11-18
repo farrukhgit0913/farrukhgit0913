@@ -159,7 +159,7 @@ Example queries:
 A mobile application built using modern hybrid/mobile technologies.
 
 * 🍎 [App Store](https://apps.apple.com/us/app/motomate123/)
-* 🤖 [Google Play](https://play.google.com/store/apps/details?id=com.viewinfocus.motomat eh d)
+* 🤖 [Google Play](https://play.google.com/store/apps/details?id=com.viewinfocus.motomatehd)
 
 ---
 
